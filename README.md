@@ -82,6 +82,8 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 |---|---|---|
 |![](https://i.imgur.com/43Ukupv.jpg)|![](https://i.imgur.com/RiTeCUY.jpg)|![](https://i.imgur.com/0hiwfxx.jpg)|
 
+三者因為演算法的不同而會抓取不同的特徵點，演算法簡介如下，另外，ORB是最快的，SIFT是最慢的。
+
 - SIFT : 使用四個步驟取得特徵點，包含：
     - 利用DOG做可能的特征點檢測
     - 分析高斯差分算子的特性，找出受雜訊影響的可能特徵點，消除有高度邊緣影響但其位置不符合需求的特徵點
