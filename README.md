@@ -23,7 +23,7 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 3. 利用BFMatcher比較descriptor並取得Hamming distance
 4. 排序distance以取得最匹配的幾組(這邊取前十組)
 最後取得結果如下:
-![](https://i.imgur.com/csCt4lc.jpg)
+![](https://i.imgur.com/mcN10bz.png)
 ![](https://i.imgur.com/ey2Kd9b.png)
 ![](https://i.imgur.com/oTYdt0N.png)
 ![](https://i.imgur.com/lN4jzj2.png)
