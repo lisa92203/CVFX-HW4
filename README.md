@@ -6,7 +6,7 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 |![](https://i.imgur.com/KDrpTq5.jpg)|![](https://i.imgur.com/2pPvRcn.jpg)|![](https://i.imgur.com/6g2tlEk.jpg)|
 |---|---|---|
 |![](https://i.imgur.com/8RGm1pw.jpg)|![](https://i.imgur.com/bCrvq77.jpg)|![](https://i.imgur.com/LPvUSx5.jpg)|
-![](https://i.imgur.com/n05dRMI.jpg)|![](https://i.imgur.com/kc2h7rP.jpg)|![](https://i.imgur.com/hSe8PtY.jpg)|
+|![](https://i.imgur.com/n05dRMI.jpg)|![](https://i.imgur.com/kc2h7rP.jpg)|![](https://i.imgur.com/hSe8PtY.jpg)|
 
 ## Feature extraction and matching results
 我們將拍攝的九張照片兩兩配對(第一張和第二張、第二張和第三張......)後進行feature extraction和matching，步驟如下:
