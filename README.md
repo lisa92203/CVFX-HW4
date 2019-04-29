@@ -26,6 +26,8 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 
 ## Image alignment
 我們將兩兩配對的圖片第二張對第一張進行align。
+|1-2|2-3|3-4|4-5|
+|---|---|---|---|
 |![](https://i.imgur.com/4Akbh5E.jpg)|![](https://i.imgur.com/Ainh1XE.jpg)|![](https://i.imgur.com/qqXs6BI.png)|![](https://i.imgur.com/rnsBnYH.jpg)|
 |![](https://i.imgur.com/c6y15zP.jpg)|![](https://i.imgur.com/FD8Y18A.jpg)|![](https://i.imgur.com/NknqSel.jpg)|![](https://i.imgur.com/gvGnQSo.jpg)|
 
