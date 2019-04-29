@@ -10,10 +10,10 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 
 ## Feature extraction and matching results
 我們將拍攝的九張照片兩兩配對(第一張和第二張、第二張和第三張......)後進行feature extraction和matching，步驟如下:
-1.初始化feature detection(這邊是使用ORB)
-2.Detect SIFT points and extract SIFT descriptor
-3.利用BFMatcher比較descriptor並取得Hamming distance
-4.排序distance以取得最匹配的幾組(這邊取前十組)
+1. 初始化feature detection(這邊是使用ORB)
+2. Detect SIFT points and extract SIFT descriptor
+3. 利用BFMatcher比較descriptor並取得Hamming distance
+4. 排序distance以取得最匹配的幾組(這邊取前十組)
 最後取得結果如下:
 ![](https://i.imgur.com/csCt4lc.jpg)
 ![](https://i.imgur.com/ey2Kd9b.png)
@@ -87,3 +87,5 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 - 濾鏡:將影片套用濾鏡，減少每張照片之間因光線而造成的色差影響。
 - 裁減:將影片中因為align扭曲所造成黑色部分裁減掉避免突兀。
 - 速度：微調圖片之間的速度來讓影片更順暢。
+
+
