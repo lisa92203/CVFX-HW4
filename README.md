@@ -4,9 +4,12 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 ## A sequence of moving-forward images in NTHU campus
 我們拍攝了台達七樓711到715外的走廊，每三塊磁磚拍攝一次，並以天花板上的線進行對齊，共拍攝九張照片。
 
+|1|2|3|
+|---|---|---|
 |![](https://i.imgur.com/KDrpTq5.jpg)|![](https://i.imgur.com/2pPvRcn.jpg)|![](https://i.imgur.com/6g2tlEk.jpg)|
-|---------------|---------------|---------------|
+|4|5|6|
 |![](https://i.imgur.com/8RGm1pw.jpg)|![](https://i.imgur.com/bCrvq77.jpg)|![](https://i.imgur.com/LPvUSx5.jpg)|
+|7|8|9|
 |![](https://i.imgur.com/n05dRMI.jpg)|![](https://i.imgur.com/kc2h7rP.jpg)|![](https://i.imgur.com/hSe8PtY.jpg)|
 
 ## Feature extraction and matching results
@@ -27,13 +30,11 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 4
 
 ## Image alignment
 我們將兩兩配對的圖片第二張對第一張進行align。
-|ORB|SIFT|SURF|
-|---|---|---|
-|![](https://i.imgur.com/43Ukupv.jpg)|![](https://i.imgur.com/RiTeCUY.jpg)|![](https://i.imgur.com/0hiwfxx.jpg)|
 
 |1-2|2-3|3-4|4-5|
 |---|---|---|---|
 |![](https://i.imgur.com/4Akbh5E.jpg)|![](https://i.imgur.com/Ainh1XE.jpg)|![](https://i.imgur.com/qqXs6BI.png)|![](https://i.imgur.com/rnsBnYH.jpg)|
+|5-6|6-7|7-8|8-9|
 |![](https://i.imgur.com/c6y15zP.jpg)|![](https://i.imgur.com/FD8Y18A.jpg)|![](https://i.imgur.com/NknqSel.jpg)|![](https://i.imgur.com/gvGnQSo.jpg)|
 
 ## Infinite zooming effect
